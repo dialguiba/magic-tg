@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/magic-tg/static/css/main.1d2dbee8.chunk.css",
+    "main.js": "/magic-tg/static/js/main.eac28b8e.chunk.js",
+    "main.js.map": "/magic-tg/static/js/main.eac28b8e.chunk.js.map",
+    "runtime-main.js": "/magic-tg/static/js/runtime-main.97e85298.js",
+    "runtime-main.js.map": "/magic-tg/static/js/runtime-main.97e85298.js.map",
+    "static/js/2.36b833d5.chunk.js": "/magic-tg/static/js/2.36b833d5.chunk.js",
+    "static/js/2.36b833d5.chunk.js.map": "/magic-tg/static/js/2.36b833d5.chunk.js.map",
+    "static/js/3.630b8d43.chunk.js": "/magic-tg/static/js/3.630b8d43.chunk.js",
+    "static/js/3.630b8d43.chunk.js.map": "/magic-tg/static/js/3.630b8d43.chunk.js.map",
+    "index.html": "/magic-tg/index.html",
+    "static/css/main.1d2dbee8.chunk.css.map": "/magic-tg/static/css/main.1d2dbee8.chunk.css.map",
+    "static/js/2.36b833d5.chunk.js.LICENSE.txt": "/magic-tg/static/js/2.36b833d5.chunk.js.LICENSE.txt",
+    "static/media/alemania.cf16b1b6.svg": "/magic-tg/static/media/alemania.cf16b1b6.svg",
+    "static/media/brasil.100516bc.svg": "/magic-tg/static/media/brasil.100516bc.svg",
+    "static/media/china.09a74fe5.svg": "/magic-tg/static/media/china.09a74fe5.svg",
+    "static/media/espana.32e1e489.svg": "/magic-tg/static/media/espana.32e1e489.svg",
+    "static/media/estados-unidos.c29455bd.svg": "/magic-tg/static/media/estados-unidos.c29455bd.svg",
+    "static/media/francia.40c79af5.svg": "/magic-tg/static/media/francia.40c79af5.svg",
+    "static/media/italia.2b31e5a9.svg": "/magic-tg/static/media/italia.2b31e5a9.svg",
+    "static/media/japon.382df14f.svg": "/magic-tg/static/media/japon.382df14f.svg",
+    "static/media/loading.28fd4e2d.svg": "/magic-tg/static/media/loading.28fd4e2d.svg",
+    "static/media/rusia.c89ed68a.svg": "/magic-tg/static/media/rusia.c89ed68a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97e85298.js",
+    "static/js/2.36b833d5.chunk.js",
+    "static/css/main.1d2dbee8.chunk.css",
+    "static/js/main.eac28b8e.chunk.js"
+  ]
+}
