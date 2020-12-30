@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magic-tg/static/css/main.1d2dbee8.chunk.css",
-    "main.js": "/magic-tg/static/js/main.eac28b8e.chunk.js",
-    "main.js.map": "/magic-tg/static/js/main.eac28b8e.chunk.js.map",
+    "main.js": "/magic-tg/static/js/main.01775320.chunk.js",
+    "main.js.map": "/magic-tg/static/js/main.01775320.chunk.js.map",
     "runtime-main.js": "/magic-tg/static/js/runtime-main.97e85298.js",
     "runtime-main.js.map": "/magic-tg/static/js/runtime-main.97e85298.js.map",
     "static/js/2.36b833d5.chunk.js": "/magic-tg/static/js/2.36b833d5.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.97e85298.js",
     "static/js/2.36b833d5.chunk.js",
     "static/css/main.1d2dbee8.chunk.css",
-    "static/js/main.eac28b8e.chunk.js"
+    "static/js/main.01775320.chunk.js"
   ]
 }
