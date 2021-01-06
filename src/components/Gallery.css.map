@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,QAAQ,CAAC;EACP,wBAAwB;EACxB,UAAU,EAAE,IAAkB;EAC9B,UAAU,EAAE,KAAK;CAClB;;AACD,AAAA,eAAe,CAAC;EACd,wBAAwB;CACzB;;AACD,AAAA,qBAAqB,CAAC;EACpB,yBAAyB;EAEzB,UAAU,EAAE,IAAI;EAEhB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,eAAe;EACtC,kBAAkB,EAAE,OAAO;CAC5B;;AACD,AAAA,2BAA2B,CAAC;EAC1B,0BAA0B;CAC3B;;AAED,AAAA,iBAAiB,CAAC;EAChB,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;CACxB",
+    "sources": [
+        "Gallery.scss",
+        "../styles/_variables.scss"
+    ],
+    "names": [],
+    "file": "Gallery.css"
+}

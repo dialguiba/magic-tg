@@ -1,0 +1,9 @@
+@import "../styles/_variables";
+
+.footer {
+  background-color: #333333;
+  /* position: fixed; */
+  bottom: 0;
+  /* width: 100vw; */
+  height: $footer-height;
+}

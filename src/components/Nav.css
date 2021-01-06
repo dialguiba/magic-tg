@@ -1,0 +1,18 @@
+.nav {
+  box-shadow: 2px 2px 2px 2px #333333;
+  background-color: #333333;
+  width: 100vw;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__icon {
+  width: 30px;
+  margin: 0 10px;
+}
+.nav__icon:hover {
+  cursor: pointer;
+}
